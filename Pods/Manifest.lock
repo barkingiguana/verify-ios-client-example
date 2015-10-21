@@ -1,0 +1,16 @@
+PODS:
+  - BIVerify (0.0.6):
+    - CryptoSwift (~> 0.1)
+  - CryptoSwift (0.1.1)
+  - SnapHTTP (1.1.0)
+
+DEPENDENCIES:
+  - BIVerify (~> 0.0)
+  - SnapHTTP (~> 1.1)
+
+SPEC CHECKSUMS:
+  BIVerify: 174fa18082834e4d36b75fef796edfeaba5623df
+  CryptoSwift: c11640d3d66107efc8333e4131a5173f072b1d61
+  SnapHTTP: 8964f0087f39ed791b8374e2ccc2f62b15f846c4
+
+COCOAPODS: 0.39.0

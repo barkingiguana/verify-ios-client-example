@@ -1,0 +1,6 @@
+framework module BIVerify {
+  umbrella header "BIVerify-umbrella.h"
+
+  export *
+  module * { export * }
+}
